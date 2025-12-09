@@ -514,7 +514,7 @@ const Sanket = () => {
                 <FaPhone className="contact-icon" />
                 <div>
                   <h3>Phone</h3>
-                  <a href="tel:+917709841585">+91 770</a>
+                  <a href="tel:+91770">+91 770</a>
                 </div>
               </div>
               
