@@ -235,7 +235,7 @@ const Sanket = () => {
 
   const handleResumeDownload = () => {
     const link = document.createElement('a');
-    link.href = './Resume - Sanket Chaudhari.pdf';
+    link.href = './sanket_chaudhari_tech1_resume.pdf';
     link.download = 'Resume - Sanket Chaudhari.pdf';
     document.body.appendChild(link);
     link.click();
