@@ -121,7 +121,7 @@ const Sanket = () => {
     },
     {
       degree: "Bachelor of Vocational (Industrial Automation & Mechatronics)",
-      institution: "KCE's College of Engineering and Management, Jaigaon",
+      institution: "KCE's College of Engineering and Management, Jalgaon",
       icon: <FaTools />,
       year: "Jun 2020 – Jun 2023"
     },
