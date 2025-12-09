@@ -82,7 +82,7 @@ const Sanket = () => {
       image: "/rentez.png",
       icon: <FaBuilding />,
       color: "#00d4ff",
-      github: "https://github.com/ChaudhariSanket12/VicharManthan",
+      github: "https://github.com/ChaudhariSanket12/RentEz",
       live: "#"
     },
     {
@@ -94,7 +94,7 @@ const Sanket = () => {
       image: "/vicharmanthan.png",
       icon: <FaUsers />,
       color: "#8b5cf6",
-      github: "https://github.com/ChaudhariSanket12/RentEz",
+      github: "https://github.com/ChaudhariSanket12/VicharManthan",
       live: "#"
     }
   ];
