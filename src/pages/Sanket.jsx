@@ -45,7 +45,7 @@ const Sanket = () => {
     },
     {
       name: "Phone",
-      url: "tel:+917709841585",
+      url: "tel:+917",
       icon: <FaPhone />,
       color: "#34a853"
     }
