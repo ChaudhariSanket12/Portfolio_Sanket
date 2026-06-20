@@ -422,7 +422,7 @@ const PROJECTS = [
     desc: "Full-stack application connecting property owners and tenants with real-time messaging, automated rent reminders, and comprehensive property management features.",
     tags: ["MERN", "Socket.io", "JWT", "Tailwind CSS", "Mapbox"],
     features: ["Real-time Chat", "Payment Tracking", "Automated Reminders", "Image Upload", "Location Maps"],
-    link: "#", year: "2025", emoji: "🏠", color: "#06b6d4",
+    link: "https://github.com/ChaudhariSanket12/RentEz", year: "2025", emoji: "🏠", color: "#06b6d4",
   },
   {
     name: "Vicharmanthan",
@@ -430,7 +430,7 @@ const PROJECTS = [
     desc: "Social platform for startup enthusiasts to share ideas, find co-founders, and collaborate with real-time chat and thriving community features.",
     tags: ["MERN", "Socket.io", "Real-time Chat", "Search & Filter"],
     features: ["Idea Sharing", "Team Building", "Real-time Chat", "User Profiles", "Admin Panel"],
-    link: "#", year: "2025", emoji: "💡", color: "#10b981",
+    link: "https://github.com/ChaudhariSanket12/VicharManthan", year: "2025", emoji: "💡", color: "#10b981",
   },
 ];
 
@@ -444,7 +444,7 @@ const EXPERIENCE = [
     points: [
       "Built & deployed full production platform with React.js + Supabase (PostgreSQL) driving 500–700 monthly organic visitors.",
       "Designed 4 bank-grade financial calculators: Smart EMI (99.9% accuracy, saves buyers up to 8Y 11M repayment time & ₹43L interest), Rent vs. Buy, Loan Eligibility, and Ownership Cost.",
-      "Built public lead capture system — successfully capturing 70+ real buyer leads since launch.",
+      "Built public lead capture system - successfully capturing 70+ real buyer leads since launch.",
       "Implemented client-side WebP compression reducing property images from 2MB to under 200KB (10× reduction).",
     ],
   },
@@ -659,7 +659,7 @@ export default function Sanket() {
               Full-Stack Java Developer with production deployment experience. I build Spring Boot REST APIs, real-time web applications, and database-driven platforms that actually ship and serve real users.
             </p>
             <p className="sc-about-text">
-              Just like on a bike — I don't just start engines, I take them to the finish line. One production platform, 500–700 monthly visitors, 70+ leads captured. That's the kind of mileage I put on my code.
+              Just like on a bike - I don't just start engines, I take them to the finish line. One production platform, 500–700 monthly visitors, 70+ leads captured. That's the kind of mileage I put on my code.
             </p>
             <div className="sc-stats-row">
               {[
@@ -678,7 +678,7 @@ export default function Sanket() {
           <div className="sc-about-right">
             <div className="sc-info-card">
               <InfoRow icon="📍" label="Location" val="Pune, Maharashtra" />
-              <InfoRow icon="🎓" label="Education" val="MCA – JSPM RSCOE (CGPA 8.28)" />
+              <InfoRow icon="🎓" label="Education" val="MCA - JSPM RSCOE (CGPA 8.28)" />
               <InfoRow icon="📱" label="Phone" val="+91 7709841585" />
               <InfoRow icon="✉️" label="Email" val="chaudharisanket2003@gmail.com" />
               <InfoRow icon="🌐" label="Website" val="sanketchaudhari.tech" />
@@ -816,7 +816,7 @@ export default function Sanket() {
             Let's <span className="sc-accent">ride together.</span>
           </h2>
           <p className="sc-contact-sub">
-            Whether it's a production problem, a new project, or just a good conversation about bikes and code — I'm in.
+            Whether it's a production problem, a new project, or just a good conversation about bikes and code - I'm in.
           </p>
           <div className="sc-contact-links">
             <ContactItem icon="✉️" label="Email" val="chaudharisanket2003@gmail.com" href="mailto:chaudharisanket2003@gmail.com" />
@@ -830,8 +830,7 @@ export default function Sanket() {
 
       {/* ── FOOTER ── */}
       <footer className="sc-footer">
-        <span style={{ color: "#444" }}>Built with </span>
-        <span style={{ color: "#f97316" }}>⚡ React</span>
+        <span style={{ color: "#444" }}>Developed</span>
         <span style={{ color: "#444" }}> by Sanket Chaudhari · 2026</span>
         <span style={{ color: "#f97316", marginLeft: "8px" }}>🏍️</span>
       </footer>
