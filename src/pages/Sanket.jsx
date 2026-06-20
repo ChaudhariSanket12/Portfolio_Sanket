@@ -506,7 +506,7 @@ export default function Sanket() {
       <nav className={`sc-nav${scrollY > 60 ? " sc-nav--scrolled" : ""}`}>
         <div className="sc-nav-logo" onClick={() => scrollTo("hero")}>
           <span className="sc-logo-icon">⚡</span>
-          <span className="sc-logo-text">SC</span>
+          <span className="sc-logo-text">Sanket Chaudhari</span>
         </div>
         <div className="sc-nav-links">
           {NAV_LINKS.map((l) => (
