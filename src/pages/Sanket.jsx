@@ -512,7 +512,14 @@ export default function Sanket() {
           {NAV_LINKS.map((l) => (
             <button key={l} className="sc-nav-btn" onClick={() => scrollTo(l.toLowerCase())}>{l}</button>
           ))}
-          <a href="/public/Resume - Sanket Chaudhari.pdf" target="_blank" rel="noopener noreferrer" className="sc-nav-cta">Resume</a>
+          <a
+  href="/Resume - Sanket Chaudhari.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="sc-nav-cta"
+>
+  Resume
+</a>
         </div>
         <button className="sc-burger" onClick={() => setMenuOpen(!menuOpen)}>
           {menuOpen ? "✕" : "☰"}
