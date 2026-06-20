@@ -472,7 +472,7 @@ export default function Sanket() {
   useEffect(() => {
     if (showIntro) return;
     let start = null;
-    const target = 78;
+    const target = 92;
     const duration = 2000;
     const animate = (ts) => {
       if (!start) start = ts;
@@ -574,7 +574,7 @@ export default function Sanket() {
               <line x1="90" y1="95" x2={90 + 52 * Math.cos(needleAngle * Math.PI / 180)} y2={95 + 52 * Math.sin(needleAngle * Math.PI / 180)}
                 stroke="#f97316" strokeWidth="2.5" strokeLinecap="round" style={{ transition: "x2 0.05s, y2 0.05s" }} />
               <circle cx="90" cy="95" r="5" fill="#f97316" />
-              <text x="90" y="78" textAnchor="middle" fill="#f97316" fontSize="13" fontWeight="700" fontFamily="monospace">{rpmVal}</text>
+              <text x="90" y="92" textAnchor="middle" fill="#f97316" fontSize="13" fontWeight="700" fontFamily="monospace">{rpmVal}</text>
               <text x="90" y="108" textAnchor="middle" fill="#888" fontSize="9" fontFamily="monospace">COMMITS/SPRINT</text>
             </svg>
           </div>
